@@ -12,6 +12,7 @@
 !.yarn/versions
 
 # Folder
+[pageName]/
 
 # testing
 /coverage
